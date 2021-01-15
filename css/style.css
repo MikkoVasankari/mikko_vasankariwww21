@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(200, 200, 200);
+    font-family:fantasy;
+    color: rgb(15, 15, 15);
+}
+
+a {
+    color: rgb(103, 23, 231);
+}
+
+a:hover {
+    color: royalblue;
+}
+
+p.article {
+    float: left;
+}
+
+figure {
+    display: table;
+  }
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+  }

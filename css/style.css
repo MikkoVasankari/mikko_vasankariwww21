@@ -24,3 +24,8 @@ figcaption {
     display: table-caption;
     caption-side: bottom;
   }
+
+figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+}  
